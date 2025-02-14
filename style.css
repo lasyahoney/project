@@ -30,6 +30,7 @@ header .cart button {
 .product-list {
     display: flex;
     justify-content: space-around;
+    background-color: black;
     margin-top: 20px;
     padding: 20px;
 }
@@ -37,6 +38,7 @@ header .cart button {
 .product {
     border: 1px solid #ddd;
     padding: 10px;
+    background-color: aliceblue;
     text-align: center;
     width: 200px;
 }
